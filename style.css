@@ -136,3 +136,18 @@ body {
   margin-left: 10px;
   line-height: 2.5;
 }
+#sec5 {
+  background-color: #616161;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 250px;
+  margin-top: 50px;
+}
+#sec5 p {
+  line-height: .1;
+}
+.pnumber {
+  font-size: 40px;
+}
