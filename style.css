@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 header {
   display: flex;
   justify-content: space-between;
@@ -43,4 +44,33 @@ body {
   top: 95%;
   left: 3%;
   color: #757575;
+}
+#sec2 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+}
+#sec2 h2, #sec2 h3, #sec2 h4 {
+  font-weight: 500;
+}
+#sec2 h2 {
+  font-size: 28px;
+}
+#divsec2content {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+#divsec2content div {
+  width: 300px;
+  text-align: center;
+}
+#sec2 i {
+  font-size: 70px;
+}
+#divsec2headline {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
