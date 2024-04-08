@@ -16,5 +16,13 @@ body {
 }
 #startpic {
   width: 100%;
-  
+}
+#sec1 {
+  position: relative;
+}
+#art1 {
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  color: white;
 }
