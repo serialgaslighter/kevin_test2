@@ -304,3 +304,20 @@ button {
 #sec9 form {
   padding-top: 30px;
 }
+footer {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  font-size: 20px;
+}
+footer a {
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  padding: 10px 15px;
+  margin: 30px;
+}
