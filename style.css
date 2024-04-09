@@ -152,6 +152,14 @@ body {
   font-size: 40px;
 }
 #sec6 img {
-  width: 20vw;
-
+  width: calc((100% - (3 * 30px)) / 4);
+  margin: 10px;
+}
+#sec6 {
+  padding: 0px 10px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#sec6 h2, h3 {
+  text-align: center;
 }
